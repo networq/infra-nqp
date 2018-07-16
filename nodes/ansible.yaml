@@ -1,4 +1,4 @@
 networq:core:node:
   name: Ansible
   image: https://iwantmyname.com/new/images/about/logo-ansible.png
-networq:network:configuration-management: ~
+networq:infra:configuration-management: ~
