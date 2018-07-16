@@ -1,0 +1,7 @@
+name: networq:infra
+description: Infrastructure types
+license: MIT
+
+dependencies:
+  networq:os: latest
+  networq:core: latest

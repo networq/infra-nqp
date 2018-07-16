@@ -1,0 +1,9 @@
+name: host
+
+fields:
+  os-release:
+    type: networq:os:release
+  public-ip:
+    type: string
+  configuration-management:
+    type: networq:infra:configuration-management
